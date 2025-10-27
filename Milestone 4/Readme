@@ -1,14 +1,16 @@
-Milestone 3: Model Evaluation & Performance Assessment
-Objective:
-   Rigorously evaluate the trained time-series deep learning model's performance using defined metrics and analyze its predictive accuracy.​
+Milestone 4: Risk Thresholding & Alert System
 
-Key Deliverables:
-   Calculated RMSE (Root Mean Squared Error) scores for the test set.​
-   Plots comparing predicted Remaining Useful Life (RUL) against actual RUL values.​
-   Analysis of model biases and error sources.​
-   A detailed evaluation report covering strengths, weaknesses, and recommendations.​
+Objective
+  Define and implement a mechanism to translate RUL model predictions into actionable maintenance alerts.​
 
-Evaluation Criteria:
-   Achieve an acceptable RMSE score (e.g., below a predefined threshold).​
-   Ensure visual consistency between predicted and actual RUL plots.​
-   Identify and explain model limitations or areas for future improvement
+Deliverables
+   Clearly defined RUL thresholds for different alert levels (e.g., warning, critical).​
+   Code logic for triggering maintenance alerts based on predicted RUL.​
+   Documentation with examples of triggered alerts across different scenarios.​
+   Algorithm description for alert generation.​
+
+Evaluation Criteria
+     Effectiveness of thresholds in early identification of potential failures.​
+     Clarity and accuracy of alert triggers in representing maintenance risks.​
+     Practical usability and applicability of the alerting system in real-world settings.​
+     Transparent documentation of the alert mechanism.
