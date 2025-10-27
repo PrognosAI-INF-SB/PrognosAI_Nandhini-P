@@ -1,0 +1,16 @@
+
+PrognosAI:AI-Driven Predictive Maintenance System Using Time-Series Sensor Data
+Project Objective 
+
+Milestone 1: Data Preparation & Feature Engineering
+● Objective: Successfully load, preprocess, and prepare the CMAPSS dataset for model training, including the creation of appropriate features and RUL targets.
+● Deliverables:
+  ○ Cleaned and preprocessed CMAPSS sensor data.
+  ○ Python scripts for data loading and preprocessing.
+  ○ Generated rolling window sequences.
+  ○ Computed RUL targets for all engine cycles.
+● Evaluation:
+  ○ Verification of data integrity and absence of missing values.
+  ○ Correctness of rolling window sequence generation.
+  ○ Accuracy of RUL target calculations.
+  ○ Documentation of data preparation steps.
