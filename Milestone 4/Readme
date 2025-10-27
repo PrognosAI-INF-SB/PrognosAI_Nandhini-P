@@ -1,1 +1,14 @@
+Milestone 3: Model Evaluation & Performance Assessment
+Objective:
+   Rigorously evaluate the trained time-series deep learning model's performance using defined metrics and analyze its predictive accuracy.​
 
+Key Deliverables:
+   Calculated RMSE (Root Mean Squared Error) scores for the test set.​
+   Plots comparing predicted Remaining Useful Life (RUL) against actual RUL values.​
+   Analysis of model biases and error sources.​
+   A detailed evaluation report covering strengths, weaknesses, and recommendations.​
+
+Evaluation Criteria:
+   Achieve an acceptable RMSE score (e.g., below a predefined threshold).​
+   Ensure visual consistency between predicted and actual RUL plots.​
+   Identify and explain model limitations or areas for future improvement
