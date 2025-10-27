@@ -14,19 +14,4 @@ Evaluation Criteria
     In-depth identification and analysis of model limitations and sources of error.​
     Comprehensive evaluation documentation.​
 
-Milestone 4: Risk Thresholding & Alert System
 
-Objective
-  Define and implement a mechanism to translate RUL model predictions into actionable maintenance alerts.​
-
-Deliverables
-   Clearly defined RUL thresholds for different alert levels (e.g., warning, critical).​
-   Code logic for triggering maintenance alerts based on predicted RUL.​
-   Documentation with examples of triggered alerts across different scenarios.​
-   Algorithm description for alert generation.​
-
-Evaluation Criteria
-     Effectiveness of thresholds in early identification of potential failures.​
-     Clarity and accuracy of alert triggers in representing maintenance risks.​
-     Practical usability and applicability of the alerting system in real-world settings.​
-     Transparent documentation of the alert mechanism.
