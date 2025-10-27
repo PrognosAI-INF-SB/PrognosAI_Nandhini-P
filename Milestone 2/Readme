@@ -1,21 +1,15 @@
 Milestone 2: Model Development & Training
+
 Objective
-Develop and train a time-series deep learning model (LSTM/GRU) capable of learning patterns from sensor data to predict Remaining Useful Life (RUL).​
+   Develop and train a time-series deep learning model (LSTM/GRU) capable of learning patterns from sensor data to predict Remaining Useful Life (RUL).​
 
 Deliverables
-
-Implemented LSTM or GRU model architecture.​
-
-Trained model weights.​
-
-Training loss and validation loss curves.​
-
-Code for model definition, training, and saving.​
+   Implemented LSTM or GRU model architecture.​
+   Trained model weights.​
+   Training loss and validation loss curves.​
+   Code for model definition, training, and saving.​
 
 Evaluation Criteria
-
-Convergence of the training process (loss reduction).​
-
-Initial performance on the validation set (e.g., visual inspection of predicted vs. actual RUL).​
-
-Proper implementation of the deep learning model.
+    Convergence of the training process (loss reduction).​
+    Initial performance on the validation set (e.g., visual inspection of predicted vs. actual RUL).​
+    Proper implementation of the deep learning model.
