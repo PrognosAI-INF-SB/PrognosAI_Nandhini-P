@@ -1,0 +1,2 @@
+WARNING Alert Threshold: 40 cycles
+CRITICAL Alert Threshold: 20 cycles

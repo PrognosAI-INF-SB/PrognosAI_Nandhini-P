@@ -1,0 +1,52 @@
+{
+    "metadata": {
+        "timestamp": "2025-11-03 15:40:09",
+        "version": "v2.0_Enhanced",
+        "model_type": "Hybrid_CNN_BiLSTM",
+        "dataset": "sensor_data.csv"
+    },
+    "model_performance": {
+        "mae": 194.53807067871094,
+        "rmse": 203.93687748908974,
+        "r2_score": -10.104799270629883,
+        "mean_error": -194.53805743523364,
+        "std_error": 61.197988594416216
+    },
+    "alert_distribution": {
+        "normal_count": 212,
+        "warning_count": 0,
+        "critical_count": 0,
+        "normal_percentage": 100.0,
+        "warning_percentage": 0.0,
+        "critical_percentage": 0.0
+    },
+    "alert_system": {
+        "warning_threshold": 40,
+        "critical_threshold": 20,
+        "alert_accuracy": 81.60377358490565
+    },
+    "dataset_info": {
+        "total_samples": 1440,
+        "train_samples": 982,
+        "val_samples": 216,
+        "test_samples": 212,
+        "features": [
+            "SensorA",
+            "SensorB",
+            "SensorC"
+        ],
+        "window_size": 30
+    },
+    "model_architecture": {
+        "total_parameters": 104353,
+        "layers": [
+            "Conv1D",
+            "BatchNorm",
+            "Dropout",
+            "BiLSTM",
+            "Dense"
+        ],
+        "optimizer": "Adam",
+        "learning_rate": 0.001
+    }
+}

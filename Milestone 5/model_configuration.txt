@@ -1,0 +1,29 @@
+============================================================
+MODEL CONFIGURATION
+============================================================
+
+Report Generated: 2025-11-03 15:40:09
+Version: v2.0_Enhanced
+
+Model Type: Hybrid CNN-Bidirectional LSTM
+Window Size: 30
+CNN Filters Layer1: 64
+CNN Filters Layer2: 32
+LSTM Units Layer1: 64
+LSTM Units Layer2: 32
+Dense Units Layer1: 64
+Dense Units Layer2: 32
+Dropout Rate CNN: 0.2
+Dropout Rate LSTM: 0.3
+Dropout Rate Dense: 0.3
+Learning Rate: 0.001
+Batch Size: 64
+Max Epochs: 100
+Early Stopping Patience: 15
+LR Reduction Patience: 5
+LR Reduction Factor: 0.5
+Total Parameters: 104353
+Trainable Parameters: 104161
+Training Samples: 982
+Validation Samples: 216
+Test Samples: 212
