@@ -1,0 +1,10 @@
+Mean Absolute Error (MAE): 285.7901 cycles
+Mean Squared Error (MSE): 85421.8516
+Root Mean Squared Error (RMSE): 292.2702 cycles
+R² Score: -21.8081
+
+Error Analysis:
+Mean Error: -285.7901 cycles
+Std of Errors: 61.2037 cycles
+Min Error: -391.3376 cycles
+Max Error: -180.2959 cycles

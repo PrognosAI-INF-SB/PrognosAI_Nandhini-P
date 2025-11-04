@@ -1,0 +1,16 @@
+============================================================
+DATA QUALITY & PREPROCESSING REPORT
+============================================================
+
+Report Generated: 2025-11-03 15:40:09
+Version: v2.0_Enhanced
+
+Original Samples: 1440
+Missing Values Handled: 420
+Sequence Samples: 1410
+Feature Count: 3
+Time Window: 30 cycles
+RUL Range: 1.00 - 1410.00 cycles
+RUL Mean: 705.50 cycles
+RUL Std: 407.03 cycles
+Train/Val/Test Split: 982/216/212

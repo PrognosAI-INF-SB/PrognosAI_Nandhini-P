@@ -1,0 +1,29 @@
+============================================================
+ALERT SYSTEM PERFORMANCE REPORT
+============================================================
+
+Report Generated: 2025-11-03 15:40:09
+Version: v2.0_Enhanced
+
+Overall Alert Accuracy: 81.60%
+
+Alert Thresholds:
+  CRITICAL: RUL < 20 cycles
+  WARNING:  20 ≤ RUL < 40 cycles
+  NORMAL:   RUL ≥ 40 cycles
+
+Alert Classification Distribution:
+Predicted  NORMAL  All
+Actual                
+CRITICAL       19   19
+NORMAL        173  173
+WARNING        20   20
+All           212  212
+
+============================================================
+INTERPRETATION GUIDE
+============================================================
+- High accuracy indicates reliable maintenance scheduling
+- False CRITICAL alerts → unnecessary maintenance costs
+- Missed CRITICAL alerts → risk of unexpected failures
+- Consider adjusting thresholds based on cost-risk analysis
